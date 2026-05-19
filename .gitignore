@@ -1,0 +1,5 @@
+.build/
+*.o
+*.d
+Neko.app/
+.DS_Store
